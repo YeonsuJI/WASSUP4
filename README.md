@@ -1,6 +1,4 @@
-# WASSUP4
 ESTsoft AI서비스기획 전문가 양성 부트캠프 4기
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=429c1c&height=120&text=WASSUP4&animation=&fontColor=ffffff&fontSize=60" />
     </div>
